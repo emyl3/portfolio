@@ -21,22 +21,22 @@
     //github footer icon hover effect
     $('#github').hover(
       function () {
-        $(this).find('img').attr('src', '/assets/img/github_icon_blue.png');
+        $(this).find('img').attr('src', 'assets/img/github_icon_blue.png');
       },
 
       function () {
-        $(this).find('img').attr('src', '/assets/img/github_icon_white.png');
+        $(this).find('img').attr('src', 'assets/img/github_icon_white.png');
       }
     );
 
     //linkedin footer icon hover effect
     $('#linkedin').hover(
       function () {
-        $(this).find('img').attr('src', '/assets/img/linkedin_icon_blue.png');
+        $(this).find('img').attr('src', 'assets/img/linkedin_icon_blue.png');
       },
 
       function () {
-        $(this).find('img').attr('src', '/assets/img/linkedin_icon_white.png');
+        $(this).find('img').attr('src', 'assets/img/linkedin_icon_white.png');
       }
     );
 
